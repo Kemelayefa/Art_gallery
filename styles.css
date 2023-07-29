@@ -90,7 +90,7 @@ body{
 }
 .image1{
     width:30px;
-    border-radius:12px;
+    border-radius:15px;
     opacity:0.7;
 box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);   
 } 
@@ -103,4 +103,8 @@ box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     font-weight:bold;
     font-size:12px;
     color:#786ec4;
+}
+.color{
+    background-color:white;
+    border-radius:15px;
 }
